@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1552374690 source:/usr/PanProject/Pan/main.cpp
+	<iostream>
+	<boost/utility.hpp>
+	<boost/progress.hpp>
+	<boost/any.hpp>
+	<boost/scoped_ptr.hpp>
+	<boost/shared_ptr.hpp>
+	<boost/bind.hpp>
+	<vector>
+	<fstream>
+
+1552291338 /usr/PanProject/Pan/include/HelloWorld.h
+	<iostream>
+
+1550821325 source:/usr/PanProject/Pan/src/HelloWorld.cpp
+	"HelloWorld.h"
+
